@@ -1,16 +1,15 @@
-### Hi there 👋
+### ⚡&nbsp; Buscando conhecimento o tempo todo
+Meu aprendizado é baseado na criação de projetos.
 
-<!--
-**GabriellCastro/GabriellCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡&nbsp; Impulsionado por entrega de qualidade
+Minha paixão por programação está relacionada a criar coisas incríveis e ajudar pessoas, não importa a tecnologia.  
 
-Here are some ideas to get you started:
+### ☕️&nbsp; Quer bater um papo?
+👉🏼&nbsp; [Instagram](https://www.instagram.com/kastrxx/)   
+👉🏼&nbsp; [Linkedin](https://www.linkedin.com/in/eugabrielcastro/)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+while we don't choose, everything is possible.
+```
+
+
