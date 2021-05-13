@@ -5,7 +5,6 @@ Meu aprendizado é baseado na criação de projetos.
 Minha paixão por programação está relacionada a criar coisas incríveis e ajudar pessoas, não importa a tecnologia.  
 
 ### ☕️&nbsp; Quer bater um papo?
-👉🏼&nbsp; [Instagram](https://www.instagram.com/kastrxx/)   
 👉🏼&nbsp; [Linkedin](https://www.linkedin.com/in/eugabrielcastro/)   
 
 ```
