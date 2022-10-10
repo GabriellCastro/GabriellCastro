@@ -2,7 +2,7 @@
 
 - ⚜️ Mid-Level Developer & Community manager focused on helping people with their initial problems.
 
-- 📚   Majored in systems analysis and development.
+- 📚 Graduate in systems analysis and development.
 
 ### 💡&nbsp; Driven by quality delivery
 - My passion for programming is all about creating amazing things and helping people, no matter the technology.
