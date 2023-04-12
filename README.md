@@ -2,8 +2,6 @@
 
 - ⚜️ Mid-Level Developer & Community manager focused on helping people with their initial problems.
 
-- 📚 Graduate in systems analysis and development.
-
 ### 💡&nbsp; Driven by quality delivery
 - My passion for programming is all about creating amazing things and helping people, no matter the technology.
 
@@ -14,3 +12,5 @@
 ```
 while we don't choose, everything is possible.
 ```
+
+<img src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy-downsized-large.gif" width="200"/>
