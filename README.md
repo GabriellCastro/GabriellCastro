@@ -1,11 +1,11 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi, I'm Gabriel Castro</h1>
 
-- ⚜️ Mid-Level Developer & Community manager focused on helping people with their initial problems.
+- Desenvolvedor Full Stack | TypeScript | React | Next | React Native | Node | Nest
 
-### 💡&nbsp; Driven by quality delivery
-- My passion for programming is all about creating amazing things and helping people, no matter the technology.
+### 💡&nbsp; Impulsionado pela entrega de qualidade
+- Minha paixão pela programação está em criar coisas incríveis e ajudar pessoas, independentemente da tecnologia.
 
-### ☕️&nbsp;   Want to chat?
+### ☕️&nbsp;   Quer conversar?
 * 🖥️ [Linkedin](http://www.linkedin.com/in/eugabrielcastro/)
 * ✉️ [contatodevgabriel@gmail.com](mailto:contatodevgabriel@gmail.com)
 
