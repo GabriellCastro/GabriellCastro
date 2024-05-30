@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi, I'm Gabriel Castro</h1>
 
-- Desenvolvedor Full Stack | TypeScript | React | Next | React Native | Node | Nest
+- Desenvolvedor Frontend Sênior | TypeScript | React | Next | React Native
 
 ### 💡&nbsp; Impulsionado pela entrega de qualidade
 - Minha paixão pela programação está em criar coisas incríveis e ajudar pessoas, independentemente da tecnologia.
